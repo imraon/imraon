@@ -60,3 +60,9 @@
 
 <h3 align="center">🎓 Education 🎓</h3>
 <h4 align="center">Economics & Computer Science</a>
+
+<br>
+
+[![Raon's GitHub stats](https://github-readme-stats.vercel.app/api?username=imraon&theme=radical)](https://github.com/imraon/github-readme-stats)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imraon&layout=compact)
